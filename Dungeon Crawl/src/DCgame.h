@@ -43,6 +43,7 @@ private:
 	void trap();
 	bool checkWin();
 	bool checkLoss();
+	bool testingOnly();
 
 };
 

@@ -47,6 +47,7 @@ int main() {
 
 	char input;
 	char input2;
+	char input3;
 	bool endGame = false;
 
 	dcgame::DCgame game;
